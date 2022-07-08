@@ -1,1 +1,14 @@
-// app global css in SCSS form
+body.body--dark {
+    background: rgba(15, 15, 15, 1)
+  }
+
+  @font-face {
+    font-family: philosopher;
+    src: url(../assets/fonts/Philosopher/Philosopher-Regular.ttf);
+  }
+
+  .font{
+    font-family: philosopher;
+  }
+
+
