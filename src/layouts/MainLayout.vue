@@ -34,7 +34,10 @@
       But it was in issue 01/86, published on December 3, 1985, that the first chapter was published. 
       Each magazine had approximately 400 pages, with several stories (most were in black and white) and the chapters 
       of Knights of the Zodiac were published until the year 1990.</div>
-
+      <div align="center">
+        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="Main Characters" />
+      </div>
+        
     <q-page-container>
       <router-view />
     </q-page-container>
