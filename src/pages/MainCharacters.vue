@@ -104,11 +104,7 @@
                 Motivated by the desire to find
                 his sister, Seiya later discovers
                 his destiny as a true Knight 
-                of Athena, being reborn 
-                whenever the goddess rein-
-                carnetes, to help her in
-                the battle against the evil
-                that consumes the Earth.  </div>
+                of Athena.  </div>
           </div>
         </q-card-section>
       </q-card>
@@ -122,11 +118,7 @@
               DRAGON SHIRYU
             </div>
             <div class="body-text2 text-justify font">Shiryu is the Bronze Horseman
-                of Dragon constellation. He is, 
-                among the the five Bronze Saints
-                who acompany Saori Kido, the 
-                wisest, most mature, and most
-                reserved. 
+                of Dragon constellation.
                 Shiryu was trained in the Ancient
                 Five Peaks of Rozan, China, by
                 the Elder Master( Golden Knight ,
@@ -171,10 +163,7 @@
                 Dead since his childhood
                 through a pendant in the form 
                 of a silver pentagram with the incription
-                “Yours Ever”, which Shun through
-                he had won from his late mother 
-                but was saved by Athena’s blood in 
-                his sacrifice.  </div>
+                “Yours Ever”.  </div>
           </div>
         </q-card-section>
       </q-card>
@@ -190,14 +179,10 @@
             <div class="body-text2 text-justify font">Hyoga is the Bronze Horseman
                 of the Cygnus constellation.
                 Born in the small village called Kahoutek,
-                in eastern Siberia ( Russia, which at 
-                the time of the launch of Saint Seiya
-                was part of the extint Soviet Union). 
+                in eastern Siberia. 
                 His dominance over the Cosmos allows 
                 him to create ice and snow at tempera-
-                tures close to absolute zero. This fact, 
-                at first, seems to create a certain 
-                arrogance in him. Being an Orthodox  
+                tures close to absolute zero. Being an Orthodox  
                 Christian, Hyoga keeps a rosary with a
                 cross that represents the Northern  
                 Cross, the only memory left by his 
@@ -227,16 +212,9 @@
                 made him into a being driven by pure ha-
                 tred and able to exercise all the power of
                 Phoenix Armor. 
-                Ikki was an antagonist in the beginning 
-                and commanded the Black Knights in an 
-                act of revenge against Saori Kido, but he 
-                regrets and goes on to fight for Athena, 
-                helping his friends and his brother, howe-
-                ver, on his on. 
                 Ikki has already triumphed in several ba-
                 ttles and whenever he dies, he returns 
-                to life even stronger, making him practi-
-                cally invincible.</div>
+                to life even stronger, making him practically invincible.</div>
           </div>
         </q-card-section>
       </q-card>
