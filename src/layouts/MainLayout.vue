@@ -7,7 +7,7 @@
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
-    <div>
+   <div>
       <div class="q-pa-none" style="width:100%">
     <q-carousel
       animated
