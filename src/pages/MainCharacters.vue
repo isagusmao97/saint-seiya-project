@@ -14,7 +14,7 @@
     <div>
         <div class="q-pa-md row items-center q-gutter-md">
         <q-card class="my-card">
-        <img src="../assets/imagens/santuario.jpg">
+        <img src="../assets/imagens/athena.jpg">
 
       <q-card-section align="center">
         <q-btn flat  style="color: #ECB905; margin-top:10px" class="font" label="ATHENA" @click="card1 = true"/>
@@ -63,7 +63,7 @@
         </div>
 
     <q-dialog v-model="card1">
-      <q-card class="my-card">
+      <q-card class="my-card-description">
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -83,7 +83,7 @@
     </q-dialog>
 
     <q-dialog v-model="card2" >
-      <q-card class="my-card" >
+      <q-card class="my-card-description" >
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -111,7 +111,7 @@
     </q-dialog>
 
     <q-dialog v-model="card3">
-      <q-card class="my-card">
+      <q-card class="my-card-description">
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -138,7 +138,7 @@
     </q-dialog>
 
     <q-dialog v-model="card4">
-      <q-card class="my-card">
+      <q-card class="my-card-description">
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -170,7 +170,7 @@
     </q-dialog>
 
     <q-dialog v-model="card5">
-      <q-card class="my-card">
+      <q-card class="my-card-description">
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -197,7 +197,7 @@
     </q-dialog>
 
     <q-dialog v-model="card6">
-      <q-card class="my-card">
+      <q-card class="my-card-description">
         <q-card-section>
           <div class="items-center">
             <div class="text-body2 text-center font" style="margin-bottom:10px">
@@ -244,4 +244,7 @@ export default {
 .my-card
   width: 100%
   max-width: 190px
+
+.my-card-description
+  width: 500px
 </style>
