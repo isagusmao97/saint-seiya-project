@@ -16,6 +16,18 @@ const routes = [
         path: "/pages/maincharacters",
         component: () => import("src/pages/MainCharacters.vue"),
       },
+      {
+        path: "/pages/sanctuarysaga",
+        component: () => import("src/pages/SanctuaryPage.vue"),
+      },
+      {
+        path: "/pages/poseidonsaga",
+        component: () => import("src/pages/PoseidonPage.vue"),
+      },
+      {
+        path: "/pages/hadessaga",
+        component: () => import("src/pages/HadesPage.vue"),
+      },
     ],
     
     

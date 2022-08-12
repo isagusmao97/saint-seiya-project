@@ -17,7 +17,7 @@
 
       <q-card-section align="center">
         <div class="text-h6 font">Sanctuary Saga</div>
-        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS"  />
+        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS" to="/pages/sanctuarysaga" />
       </q-card-section>
     </q-card>
 
@@ -26,7 +26,7 @@
 
       <q-card-section align="center">
         <div class="text-h6 font">Poseidon Saga</div>
-        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS"  />
+        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS"  to="/pages/poseidonsaga" />
       </q-card-section>
     </q-card>
 
@@ -35,7 +35,7 @@
 
       <q-card-section align="center">
         <div class="text-h6 font">Hades Saga</div>
-        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS"  />
+        <q-btn flat  style="color: #8C7ACE; margin-top:10px" label="VER MAIS" to="/pages/hadessaga" />
       </q-card-section>
     </q-card>
     </div>
