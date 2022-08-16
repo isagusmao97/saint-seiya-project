@@ -6,6 +6,11 @@
             which is to destroy the Earth. And now, the Knights must find a way to save the goddess of wisdorn and not let her 
             die in Poseoidon’s hands. </div>
         <div class="text-center text-h2 font" style="margin-top:60px">Marina’s Knight</div>
+        <div class="text-center text-body2 text-justify text-weight-light q-pa-xl">Unlike the Bronze Saints, who are chosen from among several candidates and qualified after hard training, 
+        the Marinas are sea warriors chosen by the Scale itself. The profile of who is chosen to be a Marina is varied - from music students to former candidates for Knight of Athena. 
+        When they envision Poseidon's resurrection, they gather at the Undersea Temple to receive his Scales. Scales is the name for the armor used by the Marinas, warriors charged with the 
+        protection of Poseidon. It is said that the Scales of the Seven Marine Generals are as powerful as the Armor of the Gold Saints.</div>
+
 
         <div>
             <div class="q-pa-xl row items-center q-gutter-lg q-ml-xl">
@@ -72,35 +77,30 @@
                         <q-btn flat  style="color: #ECB905; margin-top:10px" class="font" label="THETIS - MERMAID" @click="card1 = true"/>
                     </q-card-section>
                 </q-card>
-
             </div>
         </div>
     </q-page>
 </template>
 
-<script>
-import { ref } from 'vue'
+// <script>
+// import { ref } from 'vue'
 
-export default {
-  setup () {
-    return {
-      card1: ref(false),
-      card2: ref(false),
-      card3: ref(false),
-      card4: ref(false),
-      card5: ref(false),
-      card6: ref(false),
-      card7: ref(false),
-      card8: ref(false),
-      card9: ref(false),
-      card10: ref(false),
-      card11: ref(false),
-      card12: ref(false),
+// export default {
+//   setup () {
+//     return {
+//       card1: ref(false),
+//       card2: ref(false),
+//       card03: ref(false),
+//       card04: ref(false),
+//       card05: ref(false),
+//       card06: ref(false),
+//       card07: ref(false),
+//       card08: ref(false)
       
-    }
-  }
-}
-</script>
+//     }
+//   }
+// }
+// </script>
 
 <style lang="sass" scoped>
 .my-card

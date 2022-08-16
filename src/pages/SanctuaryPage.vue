@@ -288,15 +288,7 @@
                     </q-card-section>
                 </q-card>
             </q-dialog>
-
-
-
-
-
         </div>
-
-
-
     </q-page>
 </template>
 
